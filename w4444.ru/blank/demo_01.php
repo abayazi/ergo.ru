@@ -577,7 +577,7 @@ if (\Bitrix\Main\Loader::includeModule('crm'))
 
 ?>
 
-<div>проверка GIT -2</div>>
+<div>проверка GIT -3</div>>
 
 
 
